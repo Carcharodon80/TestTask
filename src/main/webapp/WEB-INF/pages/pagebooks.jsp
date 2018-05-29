@@ -1,9 +1,9 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
-    <title>$Title$</title>
+    <title>ListBooks</title>
 </head>
 <body>
-Fuck
+<a href="../../index.jsp">Back to main menu</a>
 </body>
 </html>
